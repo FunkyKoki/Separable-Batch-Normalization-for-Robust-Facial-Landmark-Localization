@@ -1,0 +1,5 @@
+numpy==1.19.2
+tqdm==4.54.1
+ptflops==0.6.4
+torch==1.7.0
+opencv_python==4.4.0.46
