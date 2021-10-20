@@ -25,6 +25,8 @@ To speed up the data loading, we pre-process the original WFLW dataset by croppi
 | Vanilla CNN         | 128\*128\*3 | 98 (**WFLW** protocol) | 1.56 GMac                | 42.33 M              | 5.70           |
 | Vanilla CNN (SepBN) | 128\*128\*3 | 98 (**WFLW** protocol) | 1.58 GMac                | 42.91 M              | 5.48           |
 
+You can download the released models [here](https://pan.baidu.com/s/1UXJ6lUQaYtu0ZQkpzQ4UBA) (extraction code is `b7e8`), and move them into the `checkpoints` floder, which is created in the root directory of the project. 
+
 ## Test
 
 You can evaluate the performance of the model simply by
